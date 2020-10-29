@@ -1,7 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with Create Meme with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Creating meme with captions using simply react &amp; redux
 
+## Start working :)
+
+Clone from https://github.com/sumeyyeabitomsky/create-meme-react.git and run 
+  `yarn start`
+  
+Don't forget to create awesome memes with crazy captions :)
+  
+
+# Getting Started with React
 ## Available Scripts
 
 In the project directory, you can run:
