@@ -2,6 +2,10 @@
 
 Creating meme with captions using simply react &amp; redux
 
+## Demo
+
+[For a simple demo](http://reactstart-20201027141343-hostingbucket-dev.s3-website-eu-west-1.amazonaws.com)
+
 ## Start working :)
 
 Clone from https://github.com/sumeyyeabitomsky/create-meme-react.git and run 
