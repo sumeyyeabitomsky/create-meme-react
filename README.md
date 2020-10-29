@@ -8,6 +8,7 @@ Clone from https://github.com/sumeyyeabitomsky/create-meme-react.git and run
   `yarn start`
   
 Don't forget to create awesome memes with crazy captions :)
+![Meme for fun](https://github.com/sumeyyeabitomsky/create-meme-react/raw/master/meme.jpg)
   
 
 # Getting Started with React
