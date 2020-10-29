@@ -1,0 +1,8 @@
+export const GET_MEMES = "GET_MEMES";
+export const GET_MEMES_ERROR = "GET_MEMES_ERROR";
+
+export const SET_SELECTED_MEME = "SET_SELECTED_MEME";
+export const SET_CAPTION = "SET_CAPTION";
+
+export const GET_CAPTION = "GET_CAPTION";
+export const GET_CAPTION_ERROR = "GET_CAPTION_ERROR";
